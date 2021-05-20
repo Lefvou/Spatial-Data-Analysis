@@ -9,7 +9,7 @@ from pyspark.sql.functions import col, explode_outer
 from dataset import Dataset
 
 findspark.init()
-spark = SparkSession.builder.master("yarn").getOrCreate()
+spark = SparkSession.builder.master("local[*]").getOrCreate()
 sqlContext = SQLContext(spark)
 
 # SET NODES,DISTANCE,PATHS, Export Status
