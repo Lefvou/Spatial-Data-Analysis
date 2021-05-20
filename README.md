@@ -19,8 +19,6 @@ of points from P × Q that have a distance of each other smaller than, or equal 
 
 ![image](https://user-images.githubusercontent.com/74420150/119017195-69287900-b9a3-11eb-9d6a-49348c027190.png)
 
-
 # Brute Force Distance Join Results
 
-
-
+![image](https://user-images.githubusercontent.com/74420150/119018361-ab05ef00-b9a4-11eb-9146-d912b53f9171.png)
