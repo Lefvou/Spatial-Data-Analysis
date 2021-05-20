@@ -22,3 +22,7 @@ of points from P × Q that have a distance of each other smaller than, or equal 
 # Brute Force Distance Join Results
 
 ![image](https://user-images.githubusercontent.com/74420150/119018361-ab05ef00-b9a4-11eb-9146-d912b53f9171.png)
+
+
+# Distance Join Algorithm with KD-TREE ALGORITHM
+![image](https://user-images.githubusercontent.com/74420150/119019094-7ba3b200-b9a5-11eb-8505-f2e5e4d974a0.png)
